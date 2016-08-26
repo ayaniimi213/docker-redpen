@@ -5,7 +5,7 @@
 FROM ubuntu:14.04
 
 # maintainer details
-MAINTAINER Ken Sakurai "niimi@fun.ac.jp"
+MAINTAINER Ayahiko Niimi "niimi@fun.ac.jp"
 
 # Set locale
 RUN locale-gen ja_JP.UTF-8
